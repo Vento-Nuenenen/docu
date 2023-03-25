@@ -9,7 +9,7 @@ date: 25.03.2022
 ---
 
 ## Rollen
-Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die Person bei-spielsweise, etwas zu sehen, zu bearbeiten oder zu löschen. Rollen können ganz unterschiedli-che Effekte haben. Eine Person mit Rolle Wolf sieht zum Beispiel nur die Anlässe, Kurse und Lager in der eigenen Abteilung und einige Informationen der Einheit, jedoch keine Personen. Eine Person mit der Rolle Adressverwalter*in bei einer Abteilung hat aber Zugriff auf alle Mit-glieder innerhalb dieser Gruppe. Eine Person mit Rolle Abteilungsleiter*in kann zusätzlich noch den Bestand melden und freigeben.
+Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die Person bei-spielsweise, etwas zu sehen, zu bearbeiten oder zu löschen. Rollen können ganz unterschiedli-che Effekte haben. Eine Person mit Rolle Wolf sieht zum Beispiel nur die Anlässe, Kurse und Lager in der eigenen Abteilung und einige Informationen der Einheit, jedoch keine Personen. Eine Person mit der Rolle Adressverwalter* in bei einer Abteilung hat aber Zugriff auf alle Mit-glieder innerhalb dieser Gruppe. Eine Person mit Rolle Abteilungsleiter* in kann zusätzlich noch den Bestand melden und freigeben.
 
 Eine gute Einführung zum Thema Rollen in Hitobito findest du hier:
 https://hitobito.readthedocs.io/de/latest/access_concept.html
