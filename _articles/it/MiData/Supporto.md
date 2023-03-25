@@ -13,3 +13,5 @@ Il ruolo di PowerUser può essere definito a livello sezionale, regionale e cant
 Se i PowerUser cantonali hanno bisogno di ulteriore aiuto, possono contattare il MSS (midata@pbs.ch, 0313280551). 
 
 È importante che questo canale di comunicazione venga rispettato. Le richieste al MSS che non provengono dai PowerUser cantonali vengono solitamente respinte.
+
+<img src="/docu/images/documentation/Support_it.png" width="25%" alt="canale di communicazione supporto"/>
