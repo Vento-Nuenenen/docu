@@ -13,3 +13,5 @@ Le rôle d'un PowerUser peut être défini pour les groupes, les régions et les
 Si les PowerUser cantonaux ont besoin d'une aide plus approfondie, ils peuvent s'adresser au MSdS (midata@pbs.ch,  0313280551).
 
 Il est important que ce mode de communication soit respecté. Les demandes adressées au MSdS qui ne proviennent pas de PowerUsers cantonaux sont en général rejetées. 
+
+<img src="/docu/images/documentation/Support_fr.png" width="25%" alt="mode de communication support"/>
