@@ -16,22 +16,22 @@ https://hitobito.readthedocs.io/de/latest/access_concept.html
 
 L'autorizzazione di un utente è costituita dal suo ruolo e dall'unità organizzativa. La base è quindi anche la struttura, rispettivamente i diversi livelli dello scoutismo. Una persona può avere uno o più ruoli in una o più unità organizzative. Le autorizzazioni sono in ogni caso collegate al ruolo. Ciò significa che una persona con un nuovo ruolo riceve un'autorizzazione aggiuntiva. Se questo ruolo viene rimosso, anche l'autorizzazione viene rimossa.
 
-<img src="/docu/images/documentation/rollen_berechtigungskonzept.png" width="25%" alt="Ruoli concetto di autorizzazione"/>
+<img src="/docu/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Ruoli concetto di autorizzazione"/>
 
-### Livelli
+#### Livelli
 Un livello corrisponde a un livello gerarchico e contiene i rispettivi gruppi. In MiData, il MSS, l'AC, la zona (se presente) e la sezione sono su un unico livello. Nella seguente illustrazione, i livelli sono evidenziati di conseguenza.
 
-<img src="/docu/images/documentation/layer_berechtigungskonzept.png" width="25%" alt="Layer concetto di autorizzazione"/>
+<img src="/docu/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer concetto di autorizzazione"/>
 
 L'autorizzazione ottenuta si riferisce sempre all'organizzazione sottostante (rappresentata da un triangolo nell'illustrazione). Se il ruolo ha l'autorizzazione di scrittura, i dati possono essere modificati; se ha l'autorizzazione di lettura, possono essere solo letti. La persona che può vedere o modificare i dati viene definita dal suo ruolo e dal ruolo di autorizzazione.
 
-### Eccezione Castoro, Lupetto, Esplo, Pio e Rover
+#### Eccezione Castoro, Lupetto, Esplo, Pio e Rover
 Le persone con i ruoli (Castoro, Lupetto, Esplo, Pio e Rover) possono essere visualizzate solo da coloro che hanno un ruolo nell’unità corrispondente. Le persone di livello superiore (ad esempio i/le responsabili cantonali) non vedono direttamente i dati dei/delle partecipanti. Queste persone possono comunque essere raggiunte ad esempio tramite l’iscrizione a un abbonamento/mailing list. 
 
 ## Livellli di autorizzazione
 Un livello di autorizzazione definisce l'accesso al sistema, che permette di leggere e scrivere i dati. Ogni ruolo ha uno o più livelli di autorizzazione.
 
-### Per i gruppi nella struttura
+#### Per i gruppi nella struttura
 * admin: Gestione delle impostazioni dell'applicazione, come ad esempio i tipi di corso o i formati delle etichette.
 * layer_and_below_full: Può leggere e scrivere a questo livello e a tutti i livelli inferiori. Può creare eventi e iscrizioni (mailing list) a questo livello.
 * layer_and_below_read: Può leggere e scrivere a questo livello e a tutti i livelli inferiori.
@@ -44,11 +44,11 @@ Un livello di autorizzazione definisce l'accesso al sistema, che permette di leg
 * contact_data: Può leggere i dati di contatto di tutte le altre persone con autorizzazione ai dati di contatto
 * approve_applications: approva le iscrizioni ai corsi per le persone di questo livello.
 
-### Per eventi, campi e corsi 
+#### Per eventi, campi e corsi 
 * event_full: Può modificare l’evento
 * participations_full: Vede tutte le informazioni sui/sulle partecipanti e può modificare i dati di iscrizione.
 * participations_read: Vede le informazioni pubbliche dei/delle partecipanti.
 * qualify: Può assegnare le qualifiche definite ai/alle partecipanti di un corso.
 
-### Lista dei ruoli 
+#### Lista dei ruoli 
 Un elenco aggiornato dei ruoli è disponibile nel repository pubblico GitHub di MiData.   
