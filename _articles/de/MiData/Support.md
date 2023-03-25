@@ -13,3 +13,5 @@ Die Rolle PowerUser kann für Abteilungen, Regionen und Kantonalverbände defini
 Benötigen die kantonalen PowerUser weiterführende Hilfe, können sie sich an die PBS wenden (midata@pbs.ch, 0313280551).
 
 Wichtig ist, dass dieser Kommunikationsweg eingehalten wird. Anfragen an die PBS, die nicht von kantonalen PowerUsern stammen, werden in der Regel abgewiesen.
+
+<img src="/docu/images/documentation/Support_de.png" width="100%" alt="Supportweg"/>
