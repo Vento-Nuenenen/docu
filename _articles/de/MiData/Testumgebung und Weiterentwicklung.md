@@ -2,10 +2,10 @@
 title: Testumgebung und Weiterentwicklung
 slug: article-3
 categories: 1_Midata
-cat_sort: 04.03.2022
+cat_sort: 25.03.2022
 relevance: Alle
 lang: de
-date: 04.03.2022
+date: 25.03.2022
 ---
 
 ## Testsystem
