@@ -22,7 +22,7 @@ Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben defin
 * Melden Probleme und Rückmeldungen an den Product-Owner Midata
 * Überprüfen die Datenqualität ihrer Ebene
 
-## Product-Owner Midata (mailto:midata@pbs.ch)
+## Product-Owner Midata ([E-Mail](mailto:midata@pbs.ch))
 
 * Direkte Ansprechperson und Support für die kantonalen PowerUser  
 * Sammeln von Rückmeldungen  
@@ -30,7 +30,7 @@ Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben defin
 * Vertretung in der Hitobito Community 
 * Organisation und Kommunikation der Releases, Wartungen und Ausfälle
 
-## Team MiData (mailto:midata@pbs.ch)
+## Team MiData ([E-Mail](mailto:midata@pbs.ch))
 
 * Aufnahme von Erweiterungen in Zusammenarbeit mit den PowerUsern der KVs – MiData Konferenz
 *	Priorisierung und Spezifikation von Erweiterungen in Zusammenarbeit mit den PowerUsern der KVs
