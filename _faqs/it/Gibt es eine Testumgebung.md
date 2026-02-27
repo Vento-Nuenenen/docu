@@ -30,6 +30,11 @@ Attenzione: devi inserire un codice 2FA quando accedi con l'account amministrato
 
 (Alternativa: utilizzare direttamente il codice TOTP `MQ3DONDBMQ3WKY3EME4GKNZTHBRGEZBTGU3DSMDCGIYWGZRTGVTGKZBUMQYWIZRXGY3GENBTME2WEMBXMZTDGYZTHAZTQN3GGUZTCODCHFRTSODGMY2DCZRVMUYGGZBRMNRTMOJXHE3DIOJVMY4TAYZQGVTDSMJTGZQWGZDEGZRDGOBYMNRWCMLFGAYTKYRUGFQWCZTCGJSGM`)
 
+#### Animatore di branca (ullrich_emirhan ( at ) hitobito.example.com)
+[Codice QR per Ullrich Emirhan](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/ullrich_emirhan_2fa.png)
+
+(Alternativa: utilizzare direttamente il codice TOTP `G5QTIYRWMEZDMZJXMI4TGNBYMIZGCMBWHBRGENRTGJQTCY3CGI4GGYZSHE3TCNBVMMYDQYLGHE3GMMRXMQ3GGNZRMEYWMYZRGU2DMOJTHFRWGYTBGMYDINJVHE4WEYTCGEZDSOBRGU2WGNZXMQ2DAYLBHBSWCMZRGUZGMYLEMY3GCOBZHEYTCNRTGY3TOMTGGAZTMOJXGQ4GI`)
+
 ### E-mail
 
 Le e-mail dell'ambiente di prova non vengono consegnate, ma raccolte in una casella di posta centrale. Con l'accesso a Mailtrap, puoi anche creare i tuoi account di prova.
