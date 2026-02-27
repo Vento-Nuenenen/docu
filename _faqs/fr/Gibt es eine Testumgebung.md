@@ -30,6 +30,11 @@ Attention: tu dois taper un code 2FA lorsque tu te connectes avec le compte admi
 
 (Alternative : utiliser directement le code TOTP `MQ3DONDBMQ3WKY3EME4GKNZTHBRGEZBTGU3DSMDCGIYWGZRTGVTGKZBUMQYWIZRXGY3GENBTME2WEMBXMZTDGYZTHAZTQN3GGUZTCODCHFRTSODGMY2DCZRVMUYGGZBRMNRTMOJXHE3DIOJVMY4TAYZQGVTDSMJTGZQWGZDEGZRDGOBYMNRWCMLFGAYTKYRUGFQWCZTCGJSGM`)
 
+#### Responsable de branche (ullrich_emirhan ( at ) hitobito.example.com)
+[Code QR pour Ullrich Emirhan](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/ullrich_emirhan_2fa.png)
+
+(Alternative : utiliser directement le code TOTP `G5QTIYRWMEZDMZJXMI4TGNBYMIZGCMBWHBRGENRTGJQTCY3CGI4GGYZSHE3TCNBVMMYDQYLGHE3GMMRXMQ3GGNZRMEYWMYZRGU2DMOJTHFRWGYTBGMYDINJVHE4WEYTCGEZDSOBRGU2WGNZXMQ2DAYLBHBSWCMZRGUZGMYLEMY3GCOBZHEYTCNRTGY3TOMTGGAZTMOJXGQ4GI`)
+
 ### E-mails
 
 Les e-mails de l'environnement de test ne sont pas livrés, mais rassemblés dans une boîte aux lettres centrale. En accédant à Mailtrap, tu peux aussi créer ton propre compte de test (ou plusieurs).

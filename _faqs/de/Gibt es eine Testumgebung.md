@@ -30,6 +30,12 @@ Für den Login als Admin oder Abteilungsleiter\*in brauchst du einen 2FA-Code. D
 
 (Alternativ: TOTP-Code `MQ3DONDBMQ3WKY3EME4GKNZTHBRGEZBTGU3DSMDCGIYWGZRTGVTGKZBUMQYWIZRXGY3GENBTME2WEMBXMZTDGYZTHAZTQN3GGUZTCODCHFRTSODGMY2DCZRVMUYGGZBRMNRTMOJXHE3DIOJVMY4TAYZQGVTDSMJTGZQWGZDEGZRDGOBYMNRWCMLFGAYTKYRUGFQWCZTCGJSGM` direkt verwenden)
 
+#### Stufenleiter\*in (ullrich_emirhan ( at ) hitobito.example.com)
+[QR-Code für Ullrich Emirhan](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/ullrich_emirhan_2fa.png)
+
+(Alternativ: TOTP-Code `G5QTIYRWMEZDMZJXMI4TGNBYMIZGCMBWHBRGENRTGJQTCY3CGI4GGYZSHE3TCNBVMMYDQYLGHE3GMMRXMQ3GGNZRMEYWMYZRGU2DMOJTHFRWGYTBGMYDINJVHE4WEYTCGEZDSOBRGU2WGNZXMQ2DAYLBHBSWCMZRGUZGMYLEMY3GCOBZHEYTCNRTGY3TOMTGGAZTMOJXGQ4GI` direkt verwenden)
+
+
 ### E-Mails
 
 Die Mails aus der Testumgebung werden nicht ausgeliefert, sondern in einer zentralen Mailbox gesammelt. Mit dem Zugriff auf Mailtrap kannst du dir auch einen (oder mehrere) eigene Testaccounts anlegen.
